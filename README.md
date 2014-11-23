@@ -25,7 +25,7 @@ $scope.functionReturn = function() {
 };
 $scope.functionEsc = function () {
 	console.debug("esc");
-}
+};
 $scope.KeyFunctions = 
 		{
 			"m": $scope.functionM
